@@ -1,0 +1,251 @@
+Product_ID,Product_Name,Category,Subcategory
+P0001,Laptops 001,Electronics,Laptops
+P0002,Chairs 002,Furniture,Chairs
+P0003,Paper 003,Office Supplies,Paper
+P0004,Cookware 004,Home & Kitchen,Cookware
+P0005,Smartphones 005,Mobile,Smartphones
+P0006,Monitors 006,Electronics,Monitors
+P0007,Desks 007,Furniture,Desks
+P0008,Binders 008,Office Supplies,Binders
+P0009,Appliances 009,Home & Kitchen,Appliances
+P0010,Tablets 010,Mobile,Tablets
+P0011,Headphones 011,Electronics,Headphones
+P0012,Tables 012,Furniture,Tables
+P0013,Pens 013,Office Supplies,Pens
+P0014,Storage 014,Home & Kitchen,Storage
+P0015,Cases 015,Mobile,Cases
+P0016,Keyboards 016,Electronics,Keyboards
+P0017,Storage 017,Furniture,Storage
+P0018,Printer Supplies 018,Office Supplies,Printer Supplies
+P0019,Decor 019,Home & Kitchen,Decor
+P0020,Chargers 020,Mobile,Chargers
+P0021,Cameras 021,Electronics,Cameras
+P0022,Lighting 022,Furniture,Lighting
+P0023,Accessories 023,Office Supplies,Accessories
+P0024,Cleaning 024,Home & Kitchen,Cleaning
+P0025,Wearables 025,Mobile,Wearables
+P0026,Laptops 026,Electronics,Laptops
+P0027,Chairs 027,Furniture,Chairs
+P0028,Paper 028,Office Supplies,Paper
+P0029,Cookware 029,Home & Kitchen,Cookware
+P0030,Smartphones 030,Mobile,Smartphones
+P0031,Monitors 031,Electronics,Monitors
+P0032,Desks 032,Furniture,Desks
+P0033,Binders 033,Office Supplies,Binders
+P0034,Appliances 034,Home & Kitchen,Appliances
+P0035,Tablets 035,Mobile,Tablets
+P0036,Headphones 036,Electronics,Headphones
+P0037,Tables 037,Furniture,Tables
+P0038,Pens 038,Office Supplies,Pens
+P0039,Storage 039,Home & Kitchen,Storage
+P0040,Cases 040,Mobile,Cases
+P0041,Keyboards 041,Electronics,Keyboards
+P0042,Storage 042,Furniture,Storage
+P0043,Printer Supplies 043,Office Supplies,Printer Supplies
+P0044,Decor 044,Home & Kitchen,Decor
+P0045,Chargers 045,Mobile,Chargers
+P0046,Cameras 046,Electronics,Cameras
+P0047,Lighting 047,Furniture,Lighting
+P0048,Accessories 048,Office Supplies,Accessories
+P0049,Cleaning 049,Home & Kitchen,Cleaning
+P0050,Wearables 050,Mobile,Wearables
+P0051,Laptops 051,Electronics,Laptops
+P0052,Chairs 052,Furniture,Chairs
+P0053,Paper 053,Office Supplies,Paper
+P0054,Cookware 054,Home & Kitchen,Cookware
+P0055,Smartphones 055,Mobile,Smartphones
+P0056,Monitors 056,Electronics,Monitors
+P0057,Desks 057,Furniture,Desks
+P0058,Binders 058,Office Supplies,Binders
+P0059,Appliances 059,Home & Kitchen,Appliances
+P0060,Tablets 060,Mobile,Tablets
+P0061,Headphones 061,Electronics,Headphones
+P0062,Tables 062,Furniture,Tables
+P0063,Pens 063,Office Supplies,Pens
+P0064,Storage 064,Home & Kitchen,Storage
+P0065,Cases 065,Mobile,Cases
+P0066,Keyboards 066,Electronics,Keyboards
+P0067,Storage 067,Furniture,Storage
+P0068,Printer Supplies 068,Office Supplies,Printer Supplies
+P0069,Decor 069,Home & Kitchen,Decor
+P0070,Chargers 070,Mobile,Chargers
+P0071,Cameras 071,Electronics,Cameras
+P0072,Lighting 072,Furniture,Lighting
+P0073,Accessories 073,Office Supplies,Accessories
+P0074,Cleaning 074,Home & Kitchen,Cleaning
+P0075,Wearables 075,Mobile,Wearables
+P0076,Laptops 076,Electronics,Laptops
+P0077,Chairs 077,Furniture,Chairs
+P0078,Paper 078,Office Supplies,Paper
+P0079,Cookware 079,Home & Kitchen,Cookware
+P0080,Smartphones 080,Mobile,Smartphones
+P0081,Monitors 081,Electronics,Monitors
+P0082,Desks 082,Furniture,Desks
+P0083,Binders 083,Office Supplies,Binders
+P0084,Appliances 084,Home & Kitchen,Appliances
+P0085,Tablets 085,Mobile,Tablets
+P0086,Headphones 086,Electronics,Headphones
+P0087,Tables 087,Furniture,Tables
+P0088,Pens 088,Office Supplies,Pens
+P0089,Storage 089,Home & Kitchen,Storage
+P0090,Cases 090,Mobile,Cases
+P0091,Keyboards 091,Electronics,Keyboards
+P0092,Storage 092,Furniture,Storage
+P0093,Printer Supplies 093,Office Supplies,Printer Supplies
+P0094,Decor 094,Home & Kitchen,Decor
+P0095,Chargers 095,Mobile,Chargers
+P0096,Cameras 096,Electronics,Cameras
+P0097,Lighting 097,Furniture,Lighting
+P0098,Accessories 098,Office Supplies,Accessories
+P0099,Cleaning 099,Home & Kitchen,Cleaning
+P0100,Wearables 100,Mobile,Wearables
+P0101,Laptops 101,Electronics,Laptops
+P0102,Chairs 102,Furniture,Chairs
+P0103,Paper 103,Office Supplies,Paper
+P0104,Cookware 104,Home & Kitchen,Cookware
+P0105,Smartphones 105,Mobile,Smartphones
+P0106,Monitors 106,Electronics,Monitors
+P0107,Desks 107,Furniture,Desks
+P0108,Binders 108,Office Supplies,Binders
+P0109,Appliances 109,Home & Kitchen,Appliances
+P0110,Tablets 110,Mobile,Tablets
+P0111,Headphones 111,Electronics,Headphones
+P0112,Tables 112,Furniture,Tables
+P0113,Pens 113,Office Supplies,Pens
+P0114,Storage 114,Home & Kitchen,Storage
+P0115,Cases 115,Mobile,Cases
+P0116,Keyboards 116,Electronics,Keyboards
+P0117,Storage 117,Furniture,Storage
+P0118,Printer Supplies 118,Office Supplies,Printer Supplies
+P0119,Decor 119,Home & Kitchen,Decor
+P0120,Chargers 120,Mobile,Chargers
+P0121,Cameras 121,Electronics,Cameras
+P0122,Lighting 122,Furniture,Lighting
+P0123,Accessories 123,Office Supplies,Accessories
+P0124,Cleaning 124,Home & Kitchen,Cleaning
+P0125,Wearables 125,Mobile,Wearables
+P0126,Laptops 126,Electronics,Laptops
+P0127,Chairs 127,Furniture,Chairs
+P0128,Paper 128,Office Supplies,Paper
+P0129,Cookware 129,Home & Kitchen,Cookware
+P0130,Smartphones 130,Mobile,Smartphones
+P0131,Monitors 131,Electronics,Monitors
+P0132,Desks 132,Furniture,Desks
+P0133,Binders 133,Office Supplies,Binders
+P0134,Appliances 134,Home & Kitchen,Appliances
+P0135,Tablets 135,Mobile,Tablets
+P0136,Headphones 136,Electronics,Headphones
+P0137,Tables 137,Furniture,Tables
+P0138,Pens 138,Office Supplies,Pens
+P0139,Storage 139,Home & Kitchen,Storage
+P0140,Cases 140,Mobile,Cases
+P0141,Keyboards 141,Electronics,Keyboards
+P0142,Storage 142,Furniture,Storage
+P0143,Printer Supplies 143,Office Supplies,Printer Supplies
+P0144,Decor 144,Home & Kitchen,Decor
+P0145,Chargers 145,Mobile,Chargers
+P0146,Cameras 146,Electronics,Cameras
+P0147,Lighting 147,Furniture,Lighting
+P0148,Accessories 148,Office Supplies,Accessories
+P0149,Cleaning 149,Home & Kitchen,Cleaning
+P0150,Wearables 150,Mobile,Wearables
+P0151,Laptops 151,Electronics,Laptops
+P0152,Chairs 152,Furniture,Chairs
+P0153,Paper 153,Office Supplies,Paper
+P0154,Cookware 154,Home & Kitchen,Cookware
+P0155,Smartphones 155,Mobile,Smartphones
+P0156,Monitors 156,Electronics,Monitors
+P0157,Desks 157,Furniture,Desks
+P0158,Binders 158,Office Supplies,Binders
+P0159,Appliances 159,Home & Kitchen,Appliances
+P0160,Tablets 160,Mobile,Tablets
+P0161,Headphones 161,Electronics,Headphones
+P0162,Tables 162,Furniture,Tables
+P0163,Pens 163,Office Supplies,Pens
+P0164,Storage 164,Home & Kitchen,Storage
+P0165,Cases 165,Mobile,Cases
+P0166,Keyboards 166,Electronics,Keyboards
+P0167,Storage 167,Furniture,Storage
+P0168,Printer Supplies 168,Office Supplies,Printer Supplies
+P0169,Decor 169,Home & Kitchen,Decor
+P0170,Chargers 170,Mobile,Chargers
+P0171,Cameras 171,Electronics,Cameras
+P0172,Lighting 172,Furniture,Lighting
+P0173,Accessories 173,Office Supplies,Accessories
+P0174,Cleaning 174,Home & Kitchen,Cleaning
+P0175,Wearables 175,Mobile,Wearables
+P0176,Laptops 176,Electronics,Laptops
+P0177,Chairs 177,Furniture,Chairs
+P0178,Paper 178,Office Supplies,Paper
+P0179,Cookware 179,Home & Kitchen,Cookware
+P0180,Smartphones 180,Mobile,Smartphones
+P0181,Monitors 181,Electronics,Monitors
+P0182,Desks 182,Furniture,Desks
+P0183,Binders 183,Office Supplies,Binders
+P0184,Appliances 184,Home & Kitchen,Appliances
+P0185,Tablets 185,Mobile,Tablets
+P0186,Headphones 186,Electronics,Headphones
+P0187,Tables 187,Furniture,Tables
+P0188,Pens 188,Office Supplies,Pens
+P0189,Storage 189,Home & Kitchen,Storage
+P0190,Cases 190,Mobile,Cases
+P0191,Keyboards 191,Electronics,Keyboards
+P0192,Storage 192,Furniture,Storage
+P0193,Printer Supplies 193,Office Supplies,Printer Supplies
+P0194,Decor 194,Home & Kitchen,Decor
+P0195,Chargers 195,Mobile,Chargers
+P0196,Cameras 196,Electronics,Cameras
+P0197,Lighting 197,Furniture,Lighting
+P0198,Accessories 198,Office Supplies,Accessories
+P0199,Cleaning 199,Home & Kitchen,Cleaning
+P0200,Wearables 200,Mobile,Wearables
+P0201,Laptops 201,Electronics,Laptops
+P0202,Chairs 202,Furniture,Chairs
+P0203,Paper 203,Office Supplies,Paper
+P0204,Cookware 204,Home & Kitchen,Cookware
+P0205,Smartphones 205,Mobile,Smartphones
+P0206,Monitors 206,Electronics,Monitors
+P0207,Desks 207,Furniture,Desks
+P0208,Binders 208,Office Supplies,Binders
+P0209,Appliances 209,Home & Kitchen,Appliances
+P0210,Tablets 210,Mobile,Tablets
+P0211,Headphones 211,Electronics,Headphones
+P0212,Tables 212,Furniture,Tables
+P0213,Pens 213,Office Supplies,Pens
+P0214,Storage 214,Home & Kitchen,Storage
+P0215,Cases 215,Mobile,Cases
+P0216,Keyboards 216,Electronics,Keyboards
+P0217,Storage 217,Furniture,Storage
+P0218,Printer Supplies 218,Office Supplies,Printer Supplies
+P0219,Decor 219,Home & Kitchen,Decor
+P0220,Chargers 220,Mobile,Chargers
+P0221,Cameras 221,Electronics,Cameras
+P0222,Lighting 222,Furniture,Lighting
+P0223,Accessories 223,Office Supplies,Accessories
+P0224,Cleaning 224,Home & Kitchen,Cleaning
+P0225,Wearables 225,Mobile,Wearables
+P0226,Laptops 226,Electronics,Laptops
+P0227,Chairs 227,Furniture,Chairs
+P0228,Paper 228,Office Supplies,Paper
+P0229,Cookware 229,Home & Kitchen,Cookware
+P0230,Smartphones 230,Mobile,Smartphones
+P0231,Monitors 231,Electronics,Monitors
+P0232,Desks 232,Furniture,Desks
+P0233,Binders 233,Office Supplies,Binders
+P0234,Appliances 234,Home & Kitchen,Appliances
+P0235,Tablets 235,Mobile,Tablets
+P0236,Headphones 236,Electronics,Headphones
+P0237,Tables 237,Furniture,Tables
+P0238,Pens 238,Office Supplies,Pens
+P0239,Storage 239,Home & Kitchen,Storage
+P0240,Cases 240,Mobile,Cases
+P0241,Keyboards 241,Electronics,Keyboards
+P0242,Storage 242,Furniture,Storage
+P0243,Printer Supplies 243,Office Supplies,Printer Supplies
+P0244,Decor 244,Home & Kitchen,Decor
+P0245,Chargers 245,Mobile,Chargers
+P0246,Cameras 246,Electronics,Cameras
+P0247,Lighting 247,Furniture,Lighting
+P0248,Accessories 248,Office Supplies,Accessories
+P0249,Cleaning 249,Home & Kitchen,Cleaning
+P0250,Wearables 250,Mobile,Wearables
