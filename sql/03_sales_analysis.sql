@@ -1,0 +1,5 @@
+-- Sales and profitability analysis
+SELECT Region, ROUND(SUM(Revenue),2) AS revenue, ROUND(SUM(Profit),2) AS profit, ROUND(SUM(Profit)/NULLIF(SUM(Revenue),0)*100,2) AS margin_pct, COUNT(DISTINCT Order_ID) AS orders FROM sales_transactions WHERE Order_Status <> 'Cancelled' GROUP BY Region ORDER BY revenue DESC;
+SELECT Category, ROUND(SUM(Revenue),2) AS revenue, ROUND(SUM(Profit),2) AS profit, ROUND(SUM(Profit)/NULLIF(SUM(Revenue),0)*100,2) AS margin_pct, COUNT(DISTINCT Order_ID) AS orders FROM sales_transactions WHERE Order_Status <> 'Cancelled' GROUP BY Category ORDER BY revenue DESC;
+SELECT Sales_Channel, ROUND(SUM(Revenue),2) AS revenue, ROUND(SUM(Profit),2) AS profit, COUNT(DISTINCT Order_ID) AS orders FROM sales_transactions WHERE Order_Status <> 'Cancelled' GROUP BY Sales_Channel ORDER BY revenue DESC;
+SELECT Product_ID, Product_Name, Category, ROUND(SUM(Revenue),2) AS revenue, ROUND(SUM(Profit),2) AS profit FROM sales_transactions WHERE Order_Status <> 'Cancelled' GROUP BY Product_ID, Product_Name, Category ORDER BY revenue DESC LIMIT 20;
