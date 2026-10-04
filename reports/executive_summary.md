@@ -3,22 +3,28 @@
 ## Objective
 Evaluate company-wide sales, profitability, customer, regional and channel performance.
 
-## Analytical Approach
-1. Validate transaction quality and missing values.
-2. Calculate executive KPIs.
-3. Analyze trends over time.
-4. Compare regions, categories, channels and customer segments.
-5. Identify high-revenue/low-margin areas.
-6. Translate findings into management recommendations.
+## Validated KPI Snapshot
+- Valid revenue excluding cancelled orders: **57.42M**
+- Profit: **11.12M**
+- Profit margin: **19.36%**
+- Valid orders: **116,545**
+- Customers: **14,993**
+- Average order value: **492.71**
+- Return rate: **7.25%**
+- Cancellation rate: **2.88%**
 
-## Dataset Snapshot
-- Transactions: 120,000
-- Customers: 14,993
-- Products: 250
-- Revenue: 59.11M
-- Profit: 11.44M
-- Profit margin: 19.36%
-- Return rate: 7.04%
+## Key Management Findings
+1. Electronics and Mobile together generate **59.3%** of valid revenue but have the two lowest category margins (**16.98%** and **13.97%**).
+2. Furniture generates **13.07M** at a **25.01%** margin, giving it an attractive scale/profitability profile.
+3. West is the largest region at **14.22M** revenue.
+4. Online is the dominant channel at **31.54M**, or approximately **54.9%** of valid revenue.
+5. Customer segments have broadly similar revenue per customer, so segment size alone should not determine investment priorities.
 
-## Final Findings
-Detailed management findings will be populated after final SQL/Python/Power BI analysis. No business conclusion is presented as fact unless supported by calculated results.
+## Recommended Actions
+- Review pricing, discounting and supplier economics in Mobile and Electronics.
+- Investigate Furniture pricing/product-mix practices for transferable margin improvements.
+- Prioritize online conversion, retention and merchandising improvements.
+- Add customer frequency and retention metrics to the next dashboard iteration.
+- Track cancellations and returns separately from operating sales KPIs.
+
+See validated_insights.md for the full analysis and caveats.
