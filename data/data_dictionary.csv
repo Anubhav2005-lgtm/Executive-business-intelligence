@@ -1,0 +1,21 @@
+Column,Description,Type
+Order_ID,Unique order identifier,Text
+Order_Date,Date on which the order was placed,Date
+Customer_ID,Unique customer identifier,Text
+Product_ID,Unique product identifier,Text
+Sales_Channel,Sales channel used for purchase,Category
+Customer_Segment,Customer business segment,Category
+Region,Customer sales region,Category
+Category,Product category,Category
+Subcategory,Product subcategory,Category
+Unit_Price,Price per unit before discount,Numeric
+Quantity,Number of units purchased,Integer
+Discount,Discount applied to the order,Decimal
+Revenue,Net revenue after discount,Numeric
+Cost,Estimated product cost,Numeric
+Profit,Revenue minus cost,Numeric
+Profit_Margin,Profit divided by revenue,Decimal
+Customer_Age,Customer age at purchase,Integer
+Customer_Satisfaction,Customer satisfaction score from 1 to 5,Numeric
+Return_Flag,Whether the order was returned,Binary
+Order_Status,"Delivered, Returned, or Cancelled",Category
