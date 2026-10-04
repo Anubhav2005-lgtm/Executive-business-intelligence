@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Customer_ID,Product_ID,Sales_Channel,Customer_Segment,Region,Product_Name,Category,Subcategory,Unit_Price,Quantity,Discount,Revenue,Cost,Profit,Profit_Margin,Customer_Age,Customer_Satisfaction,Return_Flag,Order_Status
+O0000001,2024-11-28,C01867,P0052,Marketplace,Consumer,West,Chairs 052,Furniture,Chairs,436.09,1,0.05,414.29,321.0,93.29,0.2251790344438488,29,3.9,0,Delivered
+O0000002,2025-08-25,C08943,P0079,Retail Store,Small Business,South,Cookware 079,Home & Kitchen,Cookware,192.05,2,0.1,345.69,263.72,81.97,0.237123901250727,56,4.6,0,Delivered
+O0000003,2024-06-14,C08050,P0055,Online,Consumer,Central,Smartphones 055,Mobile,Smartphones,335.68,1,0.1,302.11,261.05,41.06,0.1359123780283153,47,2.8,0,Delivered
+O0000004,2024-06-09,C09421,P0027,Retail Store,Small Business,Central,Chairs 027,Furniture,Chairs,169.78,1,0.1,152.8,117.3,35.5,0.232318598951935,41,3.7,0,Delivered
+O0000005,2024-01-06,C07798,P0123,Online,Consumer,North,Accessories 123,Office Supplies,Accessories,118.25,1,0.25,88.69,62.42,26.26,0.2961517409630672,31,3.4,0,Delivered
+O0000006,2025-10-14,C09843,P0036,Retail Store,Consumer,Central,Headphones 036,Electronics,Headphones,498.18,1,0.05,473.27,377.18,96.09,0.2030303822694865,56,4.8,0,Delivered
+O0000007,2024-07-23,C01087,P0039,Retail Store,Consumer,East,Storage 039,Home & Kitchen,Storage,111.76,4,0.05,424.67,328.93,95.74,0.2254479997211639,39,4.0,0,Delivered
+O0000008,2025-06-15,C02927,P0158,Online,Corporate,North,Binders 158,Office Supplies,Binders,81.77,1,0.0,81.77,55.38,26.39,0.3227634629322466,50,3.4,0,Delivered
+O0000009,2024-04-09,C00992,P0201,Online,Corporate,South,Laptops 201,Electronics,Laptops,206.67,3,0.1,558.01,451.02,106.98,0.1917269750949651,59,4.5,0,Delivered
+O0000010,2025-11-07,C04109,P0190,Online,Small Business,Central,Cases 190,Mobile,Cases,275.09,1,0.05,261.33,220.21,41.12,0.1573547306585571,51,4.3,0,Delivered
+O0000011,2024-02-14,C01455,P0036,Retail Store,Consumer,North,Headphones 036,Electronics,Headphones,601.21,1,0.1,541.09,427.38,113.71,0.2101545199792669,53,4.5,0,Delivered
+O0000012,2025-04-01,C02354,P0148,Marketplace,Small Business,North,Accessories 148,Office Supplies,Accessories,85.52,1,0.0,85.52,56.52,29.0,0.3391052146960895,42,4.6,0,Delivered
+O0000013,2024-08-14,C03655,P0057,Online,Consumer,West,Desks 057,Furniture,Desks,489.67,4,0.25,1469.02,1119.55,349.47,0.2378920795127183,54,3.1,0,Delivered
+O0000014,2024-11-10,C05684,P0165,Online,Consumer,East,Cases 165,Mobile,Cases,293.6,1,0.15,249.56,210.51,39.05,0.1564742631997393,45,4.1,0,Delivered
+O0000015,2024-02-21,C13821,P0089,Online,Consumer,South,Storage 089,Home & Kitchen,Storage,177.99,2,0.2,284.78,221.83,62.96,0.2210658057071251,51,3.8,0,Cancelled
+O0000016,2024-05-25,C07845,P0215,Marketplace,Corporate,Central,Cases 215,Mobile,Cases,326.41,1,0.05,310.09,276.64,33.46,0.1078895304100667,39,3.5,0,Delivered
+O0000017,2024-10-07,C08310,P0003,Online,Consumer,West,Paper 003,Office Supplies,Paper,47.12,1,0.0,47.12,31.52,15.6,0.3311500311556485,35,3.8,0,Delivered
+O0000018,2024-05-02,C02391,P0086,Online,Consumer,West,Headphones 086,Electronics,Headphones,282.98,2,0.0,565.95,458.93,107.02,0.1890965520185699,47,3.6,0,Delivered
+O0000019,2025-12-19,C14983,P0129,Retail Store,Small Business,Central,Cookware 129,Home & Kitchen,Cookware,92.1,3,0.0,276.29,224.12,52.18,0.1888437528687245,55,3.8,0,Delivered
+O0000020,2025-04-15,C14564,P0139,Online,Corporate,Central,Storage 139,Home & Kitchen,Storage,108.2,2,0.2,173.11,129.59,43.53,0.2514361522522858,52,3.7,0,Delivered
+O0000021,2024-10-23,C04316,P0183,Retail Store,Consumer,Central,Binders 183,Office Supplies,Binders,59.04,1,0.15,50.18,36.86,13.32,0.2654191550498881,24,4.0,0,Delivered
+O0000022,2025-09-05,C13816,P0149,Online,Consumer,West,Cleaning 149,Home & Kitchen,Cleaning,97.12,2,0.0,194.24,144.28,49.96,0.2572029805119467,51,5.0,0,Delivered
+O0000023,2025-05-26,C07876,P0192,Online,Consumer,West,Storage 192,Furniture,Storage,290.99,1,0.05,276.44,190.84,85.6,0.3096400105672167,40,3.8,0,Delivered
+O0000024,2025-10-02,C10200,P0224,Retail Store,Consumer,West,Cleaning 224,Home & Kitchen,Cleaning,122.04,2,0.0,244.07,199.91,44.17,0.180952275632887,58,3.8,0,Delivered
+O0000025,2025-05-16,C14077,P0142,Online,Consumer,North,Storage 142,Furniture,Storage,220.41,1,0.1,198.37,144.78,53.59,0.2701306732165288,53,3.8,0,Delivered
+O0000026,2025-11-09,C05689,P0219,Online,Consumer,West,Decor 219,Home & Kitchen,Decor,266.36,1,0.2,213.09,160.52,52.57,0.2467069794480845,55,5.0,0,Delivered
+O0000027,2024-07-20,C13888,P0210,Online,Consumer,South,Tablets 210,Mobile,Tablets,258.72,5,0.2,1034.87,791.14,243.73,0.2355169039825745,29,3.6,0,Delivered
+O0000028,2025-02-18,C08790,P0039,Online,Corporate,East,Storage 039,Home & Kitchen,Storage,199.8,1,0.05,189.81,154.57,35.24,0.1856489843004075,36,3.6,0,Delivered
+O0000029,2025-09-05,C06226,P0081,Retail Store,Corporate,Central,Monitors 081,Electronics,Monitors,148.29,5,0.0,741.45,611.59,129.86,0.1751469787628144,33,4.4,0,Cancelled
+O0000030,2025-08-05,C04539,P0038,Retail Store,Consumer,South,Pens 038,Office Supplies,Pens,67.42,1,0.0,67.42,46.25,21.17,0.3139424141656422,33,4.2,0,Delivered
+O0000031,2025-02-25,C14956,P0066,Marketplace,Corporate,West,Keyboards 066,Electronics,Keyboards,429.32,4,0.15,1459.67,1246.91,212.76,0.1457584394106467,48,3.5,1,Returned
+O0000032,2025-06-03,C10618,P0238,Online,Small Business,North,Pens 238,Office Supplies,Pens,55.95,1,0.0,55.95,37.59,18.35,0.3280661660611564,47,3.8,0,Delivered
+O0000033,2025-11-04,C11704,P0101,Online,Consumer,South,Laptops 101,Electronics,Laptops,472.15,4,0.1,1699.75,1398.5,301.24,0.1772290310281769,35,4.8,0,Delivered
+O0000034,2024-03-13,C01914,P0008,Online,Consumer,North,Binders 008,Office Supplies,Binders,75.92,1,0.05,72.12,53.75,18.37,0.254726676087478,26,4.8,0,Delivered
+O0000035,2024-12-10,C00649,P0141,Retail Store,Corporate,North,Keyboards 141,Electronics,Keyboards,625.68,1,0.1,563.11,483.45,79.65,0.141454421890197,48,4.0,0,Delivered
+O0000036,2024-01-27,C09449,P0145,Online,Consumer,North,Chargers 145,Mobile,Chargers,349.58,1,0.05,332.1,285.21,46.89,0.1411982138050454,50,3.6,0,Delivered
+O0000037,2024-06-17,C01864,P0211,Online,Consumer,East,Headphones 211,Electronics,Headphones,330.02,2,0.15,561.03,465.97,95.06,0.1694339923329704,49,3.9,0,Delivered
+O0000038,2025-08-07,C04861,P0101,Online,Corporate,West,Laptops 101,Electronics,Laptops,327.46,4,0.15,1113.36,899.56,213.8,0.192028637432876,29,3.8,1,Returned
+O0000039,2024-07-27,C08194,P0016,Marketplace,Consumer,South,Keyboards 016,Electronics,Keyboards,379.59,1,0.05,360.61,306.95,53.66,0.1488017583639605,43,5.0,0,Delivered
+O0000040,2025-09-02,C03805,P0086,Retail Store,Consumer,South,Headphones 086,Electronics,Headphones,439.24,2,0.0,878.48,705.77,172.71,0.1965966663778702,50,4.9,0,Delivered
+O0000041,2025-06-26,C13781,P0042,Online,Small Business,West,Storage 042,Furniture,Storage,882.4,1,0.1,794.16,570.22,223.94,0.2819834473174886,37,4.9,0,Delivered
+O0000042,2025-06-28,C14482,P0151,Online,Consumer,North,Laptops 151,Electronics,Laptops,218.4,5,0.0,1092.02,860.71,231.3,0.2118119806570607,49,3.1,0,Delivered
+O0000043,2025-12-25,C09553,P0214,Marketplace,Corporate,West,Storage 214,Home & Kitchen,Storage,251.28,2,0.2,402.05,318.69,83.36,0.2073454458061152,32,3.6,0,Delivered
+O0000044,2025-10-18,C14548,P0193,Online,Consumer,East,Printer Supplies 193,Office Supplies,Printer Supplies,56.2,3,0.0,168.6,114.54,54.06,0.3206430607289479,59,2.9,0,Delivered
+O0000045,2025-09-02,C03543,P0095,Online,Consumer,East,Chargers 095,Mobile,Chargers,459.79,1,0.1,413.81,351.61,62.2,0.1503175647614144,39,3.7,0,Delivered
+O0000046,2024-11-05,C01422,P0188,Retail Store,Consumer,South,Pens 188,Office Supplies,Pens,100.09,2,0.0,200.17,144.86,55.31,0.276308190540406,53,4.3,0,Delivered
+O0000047,2024-06-28,C09231,P0216,Retail Store,Consumer,North,Keyboards 216,Electronics,Keyboards,624.33,4,0.15,2122.71,1754.39,368.32,0.173515577293089,28,3.0,0,Delivered
+O0000048,2025-10-08,C14065,P0122,Online,Corporate,South,Lighting 122,Furniture,Lighting,296.89,3,0.05,846.13,647.46,198.67,0.2348034787960691,60,4.3,0,Delivered
+O0000049,2025-03-13,C09091,P0231,Online,Consumer,North,Monitors 231,Electronics,Monitors,416.31,1,0.0,416.31,354.7,61.62,0.148004185705676,26,4.3,0,Delivered
+O0000050,2025-04-21,C00917,P0173,Retail Store,Consumer,South,Accessories 173,Office Supplies,Accessories,118.48,3,0.05,337.67,230.66,107.01,0.3169150765076577,42,4.3,0,Delivered
+O0000051,2025-01-29,C14186,P0242,Online,Consumer,North,Storage 242,Furniture,Storage,383.29,1,0.1,344.96,269.93,75.03,0.2174909924683062,48,3.2,0,Delivered
+O0000052,2025-12-02,C06716,P0082,Online,Consumer,North,Desks 082,Furniture,Desks,327.41,2,0.1,589.34,439.29,150.05,0.2545999339049417,59,4.2,0,Delivered
+O0000053,2025-06-25,C08109,P0242,Online,Corporate,West,Storage 242,Furniture,Storage,324.11,1,0.0,324.11,244.85,79.26,0.2445388149982711,52,3.6,0,Delivered
+O0000054,2025-08-16,C05369,P0175,Online,Corporate,North,Wearables 175,Mobile,Wearables,927.88,2,0.1,1670.18,1414.95,255.23,0.152818334467275,46,3.6,0,Delivered
+O0000055,2024-02-26,C03065,P0157,Online,Corporate,East,Desks 157,Furniture,Desks,349.27,1,0.15,296.88,219.09,77.79,0.2620226406144097,24,3.6,0,Delivered
+O0000056,2024-06-22,C03738,P0024,Online,Corporate,South,Cleaning 024,Home & Kitchen,Cleaning,222.54,1,0.05,211.41,165.52,45.89,0.2170739593273361,35,4.4,0,Delivered
+O0000057,2025-12-20,C00759,P0115,Online,Small Business,North,Cases 115,Mobile,Cases,238.8,2,0.1,429.83,365.95,63.88,0.1486136794712064,38,4.9,0,Delivered
+O0000058,2024-11-21,C10999,P0026,Online,Consumer,West,Laptops 026,Electronics,Laptops,261.37,2,0.05,496.61,405.47,91.14,0.18352392871171,50,4.7,0,Delivered
+O0000059,2024-11-17,C00458,P0192,Online,Consumer,North,Storage 192,Furniture,Storage,433.47,3,0.0,1300.4,962.4,338.0,0.259922460472803,44,3.7,0,Delivered
+O0000060,2024-07-01,C08144,P0064,Retail Store,Consumer,Central,Storage 064,Home & Kitchen,Storage,214.73,1,0.05,203.99,147.13,56.86,0.2787542128514442,35,3.5,1,Returned
+O0000061,2024-08-22,C00236,P0215,Online,Corporate,East,Cases 215,Mobile,Cases,225.68,3,0.0,677.04,576.03,101.01,0.1491951557970877,38,4.0,0,Delivered
+O0000062,2025-09-10,C00302,P0170,Marketplace,Consumer,East,Chargers 170,Mobile,Chargers,215.81,2,0.1,388.45,316.31,72.15,0.1857330861813614,42,4.2,0,Delivered
+O0000063,2024-07-04,C00451,P0045,Retail Store,Corporate,East,Chargers 045,Mobile,Chargers,834.97,2,0.1,1502.94,1325.48,177.46,0.1180776041083994,33,3.5,0,Delivered
+O0000064,2024-09-22,C01680,P0169,Marketplace,Corporate,South,Decor 169,Home & Kitchen,Decor,230.59,5,0.05,1095.33,898.08,197.24,0.180075320264794,22,5.0,0,Delivered
+O0000065,2025-10-05,C00983,P0199,Retail Store,Consumer,Central,Cleaning 199,Home & Kitchen,Cleaning,86.83,1,0.15,73.81,58.75,15.06,0.2040734958802152,33,3.4,0,Delivered
+O0000066,2024-11-24,C06683,P0204,Online,Small Business,West,Cookware 204,Home & Kitchen,Cookware,275.85,4,0.0,1103.4,913.05,190.35,0.1725122552712683,23,4.1,0,Delivered
+O0000067,2024-12-30,C00785,P0064,Marketplace,Consumer,West,Storage 064,Home & Kitchen,Storage,160.49,1,0.05,152.46,117.17,35.29,0.2314655234708182,48,4.9,0,Delivered
+O0000068,2025-11-13,C10897,P0118,Online,Consumer,South,Printer Supplies 118,Office Supplies,Printer Supplies,40.89,3,0.15,104.26,70.8,33.46,0.3209255318795448,36,3.9,0,Delivered
+O0000069,2024-01-24,C07369,P0085,Online,Consumer,Central,Tablets 085,Mobile,Tablets,429.26,1,0.0,429.26,382.98,46.28,0.1078207185017511,58,3.7,0,Delivered
+O0000070,2024-09-17,C12100,P0085,Marketplace,Corporate,East,Tablets 085,Mobile,Tablets,277.75,3,0.15,708.26,606.49,101.76,0.1436812754804702,58,4.6,0,Cancelled
+O0000071,2024-12-20,C04358,P0230,Online,Corporate,Central,Smartphones 230,Mobile,Smartphones,365.58,2,0.0,731.16,636.57,94.59,0.1293709661758252,34,5.0,0,Delivered
+O0000072,2024-07-14,C10068,P0245,Online,Corporate,Central,Chargers 245,Mobile,Chargers,372.17,1,0.0,372.17,328.56,43.61,0.1171677103283174,28,3.9,1,Returned
+O0000073,2025-09-02,C08258,P0103,Marketplace,Small Business,North,Paper 103,Office Supplies,Paper,110.04,2,0.05,209.08,149.25,59.83,0.2861683035698946,41,3.8,0,Delivered
+O0000074,2025-05-04,C01653,P0144,Online,Consumer,South,Decor 144,Home & Kitchen,Decor,188.24,2,0.05,357.65,263.72,93.93,0.2626375523989367,25,4.3,0,Delivered
+O0000075,2024-11-28,C09845,P0016,Retail Store,Consumer,North,Keyboards 016,Electronics,Keyboards,274.01,4,0.15,931.62,728.52,203.1,0.2180100264743689,59,4.0,1,Returned
+O0000076,2025-09-04,C12427,P0236,Online,Consumer,West,Headphones 236,Electronics,Headphones,375.2,1,0.05,356.44,311.89,44.56,0.1249991412503149,24,4.3,0,Delivered
+O0000077,2025-09-23,C11554,P0166,Online,Corporate,North,Keyboards 166,Electronics,Keyboards,580.2,1,0.0,580.2,466.97,113.23,0.1951496506429315,39,4.9,0,Delivered
+O0000078,2024-11-16,C10094,P0055,Online,Corporate,North,Smartphones 055,Mobile,Smartphones,199.83,1,0.05,189.84,170.16,19.68,0.1036742790226055,31,3.3,0,Delivered
+O0000079,2025-03-22,C06404,P0035,Online,Small Business,East,Tablets 035,Mobile,Tablets,349.4,1,0.1,314.46,281.24,33.22,0.1056416964876709,44,4.4,0,Delivered
+O0000080,2025-01-11,C03887,P0090,Retail Store,Small Business,South,Cases 090,Mobile,Cases,321.43,1,0.05,305.36,262.67,42.69,0.1397985430975294,52,3.8,0,Delivered
+O0000081,2024-07-21,C14866,P0142,Online,Consumer,West,Storage 142,Furniture,Storage,233.48,1,0.15,198.45,157.03,41.42,0.2087179606195744,23,2.7,0,Delivered
+O0000082,2024-03-30,C02002,P0239,Online,Consumer,West,Storage 239,Home & Kitchen,Storage,159.74,1,0.05,151.75,113.01,38.74,0.255289000413428,60,3.9,0,Delivered
+O0000083,2025-12-07,C04178,P0130,Online,Corporate,North,Smartphones 130,Mobile,Smartphones,640.35,2,0.05,1216.67,1062.31,154.36,0.1268679944610314,29,3.9,1,Returned
+O0000084,2024-06-25,C14651,P0190,Retail Store,Consumer,South,Cases 190,Mobile,Cases,326.82,1,0.2,261.46,210.72,50.73,0.1940396779214812,21,4.4,0,Delivered
+O0000085,2025-09-18,C12068,P0173,Retail Store,Small Business,East,Accessories 173,Office Supplies,Accessories,56.24,1,0.25,42.18,29.97,12.21,0.2895269361611547,56,3.7,0,Delivered
+O0000086,2024-02-01,C12606,P0120,Marketplace,Consumer,North,Chargers 120,Mobile,Chargers,256.82,4,0.0,1027.27,836.42,190.85,0.1857819612902287,47,4.1,0,Delivered
+O0000087,2025-12-27,C10679,P0146,Online,Consumer,West,Cameras 146,Electronics,Cameras,644.11,1,0.15,547.49,459.69,87.8,0.1603681830058738,41,3.7,0,Delivered
+O0000088,2024-08-30,C08531,P0056,Online,Small Business,North,Monitors 056,Electronics,Monitors,643.55,1,0.0,643.55,506.11,137.44,0.2135658934946681,54,3.8,0,Delivered
+O0000089,2024-03-10,C12015,P0088,Retail Store,Consumer,Central,Pens 088,Office Supplies,Pens,83.8,3,0.0,251.39,176.34,75.05,0.2985273827820198,59,4.1,0,Delivered
+O0000090,2024-03-11,C09669,P0190,Retail Store,Corporate,South,Cases 190,Mobile,Cases,278.37,4,0.0,1113.49,971.4,142.1,0.1276155498063431,51,3.4,0,Delivered
+O0000091,2025-09-14,C12858,P0143,Online,Corporate,West,Printer Supplies 143,Office Supplies,Printer Supplies,93.34,1,0.1,84.0,56.48,27.53,0.3276745939618915,30,4.3,0,Delivered
+O0000092,2024-06-06,C10536,P0114,Retail Store,Consumer,West,Storage 114,Home & Kitchen,Storage,238.99,1,0.1,215.09,164.92,50.17,0.2332406477022594,37,3.3,0,Delivered
+O0000093,2025-07-02,C08245,P0062,Online,Consumer,West,Tables 062,Furniture,Tables,248.66,2,0.2,397.86,303.04,94.82,0.2383339705395465,30,3.7,0,Delivered
+O0000094,2024-11-21,C03077,P0129,Online,Small Business,West,Cookware 129,Home & Kitchen,Cookware,186.06,3,0.15,474.45,374.22,100.23,0.2112490394400528,23,3.4,0,Delivered
+O0000095,2024-02-04,C02411,P0059,Retail Store,Corporate,South,Appliances 059,Home & Kitchen,Appliances,122.97,2,0.0,245.94,193.0,52.94,0.2152462866102205,53,4.3,0,Delivered
+O0000096,2025-04-24,C05350,P0157,Retail Store,Corporate,East,Desks 157,Furniture,Desks,487.36,1,0.1,438.62,348.22,90.4,0.2061040966724065,31,4.1,1,Returned
+O0000097,2025-04-04,C07597,P0224,Online,Consumer,Central,Cleaning 224,Home & Kitchen,Cleaning,149.05,1,0.05,141.6,111.05,30.55,0.2157804069443522,46,3.7,0,Delivered
+O0000098,2025-02-19,C02000,P0007,Marketplace,Consumer,North,Desks 007,Furniture,Desks,192.38,3,0.05,548.3,435.44,112.86,0.2058403069190877,24,4.9,0,Delivered
+O0000099,2025-07-24,C10937,P0150,Marketplace,Small Business,South,Wearables 150,Mobile,Wearables,604.73,3,0.05,1723.47,1419.49,303.98,0.1763773972490322,27,3.2,0,Delivered
+O0000100,2025-02-22,C03788,P0129,Marketplace,Consumer,Central,Cookware 129,Home & Kitchen,Cookware,130.37,1,0.15,110.81,81.84,28.97,0.261425814715309,22,3.7,0,Cancelled
