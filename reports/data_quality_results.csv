@@ -1,0 +1,7 @@
+Check,Result
+Rows,120000
+Duplicate Order IDs,0
+Missing Customer Satisfaction,960
+Cancelled Orders,3455
+Invalid Revenue,0
+Invalid Profit Margin,0
